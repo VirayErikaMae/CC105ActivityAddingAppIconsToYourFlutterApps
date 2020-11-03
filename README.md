@@ -1,4 +1,4 @@
-# adding_app_icons
+## adding_app_icons
 
 A new Flutter application.
 
